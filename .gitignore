@@ -1,0 +1,11 @@
+target/
+data/
+out/
+cp.txt
+.idea/
+*.iml
+.vscode/
+.DS_Store
+spark-warehouse/
+metastore_db/
+derby.log
